@@ -5,7 +5,7 @@ indivisível, garantindo que todas as operações sejam concluídas com sucesso 
 As transações são usadas para manter a integridade dos dados, permitindo que as operações sejam agrupadas e tratadas
 como uma única entidade.
 
-API:
+## API:
 - setAutoCommit(false) <br>
 - commit() <br>
 - rollback() 
